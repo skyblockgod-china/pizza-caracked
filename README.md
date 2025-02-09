@@ -1,9 +1,9 @@
-# pizza-caracked
+# pizza-cracked
 
 
 # Pizza Client Changelog | v3.0 beta 3 -> 6
 
-## 2024-11-11
+## 2025-02-02
 
 ```diff
 + Added an inventory walk disabler (yes you can use it with any auto terms and you will be able to inv walk with melody)
